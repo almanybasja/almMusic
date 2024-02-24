@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 480))
 LOGGER_ID = int(getenv("LOGGER_ID"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6581896306))
+OWNER_ID = int(getenv("OWNER_ID", 1715562844))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Source_Ze")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ZeSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/St7art")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/St5art")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -77,15 +77,15 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://telegra.ph/file/41a777f089288f7ad2571.jpg"
-PING_IMG_URL = "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+START_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+PING_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/4980eb521b9ccebee927f.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
