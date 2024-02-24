@@ -20,7 +20,7 @@ from pyrogram.errors import MessageNotModified
 )
 async def cr_source(client: Client, message: Message):
     await message.reply_photo(
-      photo=f"https://telegra.ph/file/41a777f089288f7ad2571.jpg",
+      photo=f"https://telegra.ph/file/4980eb521b9ccebee927f.jpg",
         caption=f"""**- قائمة الاوامر
         
  — — — — — — — — — — 
