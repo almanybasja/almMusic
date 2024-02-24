@@ -21,7 +21,7 @@ async def arbic(_, query: CallbackQuery):
                         url=f"https://t.me/{app.username}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze"),
+                [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄  🔱", url=f"https://t.me/St7art"),
                 
 InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="afyona"),
                 ],
@@ -30,15 +30,15 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/Source_Ze"
+                        "‹ السورس ›", url=f"https://t.me/St7art"
                     ),
                     InlineKeyboardButton(
-                        "‹ اضف البوت لمجموعتك ›", url=f"https://t.me/ze7hbot?startgroup=true"
+                        "‹ اضف البوت لمجموعتك ›", url=f"https://t.me/{app.username}?startgroup=true"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url="https://t.me/ZeSupport"
+                        "‹ الدعم ›", url="https://t.me/St5art"
                     )
                 ],
             ]
@@ -69,15 +69,15 @@ InlineKeyboardButton(" member keyboard ", callback_data="Q_XUQ"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze"
+                        "🔱 𝐒𝐎𝐔𝐑𝐂𝐄  🔱", url=f"https://t.me/St7art"
                     ),
                     InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/D_S_I"
+                        "‹ المطور ›", url=f"https://t.me/ALMA1NY"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url="https://t.me/ZeSupport"
+                        "‹ الدعم ›", url="https://t.me/St5art"
                     )
                 ],
             ]
